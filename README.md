@@ -57,7 +57,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **s3d1yank3**
 
 ## License
 
